@@ -1,3 +1,13 @@
-# chat_app_ui
+<p align="center">
+  
+  <h3 align="center">Flutter Chat App UI</h3>
 
-A new Flutter project for chatting UI.
+  <p align="center">
+    Chat App UI
+    <br>
+    Base project made with much  :heart: .
+    <br>
+  ![Alt Text](https://media.giphy.com/media/7epztzMb7AOQSgvvGg/giphy.gif)
+    <br>
+  </p>
+</p>
