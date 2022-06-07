@@ -10,5 +10,5 @@
     <br>
   </p>
 </p>
+<center>![Alt Text](https://media.giphy.com/media/7epztzMb7AOQSgvvGg/giphy.gif)</center>
 
-![Alt Text](https://media.giphy.com/media/7epztzMb7AOQSgvvGg/giphy.gif)
