@@ -7,7 +7,8 @@
     <br>
     Base project made with much  :heart: .
     <br>
-  ![Alt Text](https://media.giphy.com/media/7epztzMb7AOQSgvvGg/giphy.gif)
     <br>
   </p>
 </p>
+
+![Alt Text](https://media.giphy.com/media/7epztzMb7AOQSgvvGg/giphy.gif)
